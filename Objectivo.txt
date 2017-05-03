@@ -1,7 +1,3 @@
 Iniciar en el uso del control de versiones con Git.
 
-<<<<<<< HEAD
 Este es un segundo comentario, seguido del tercero.
-=======
-Este es un segundo comentario.
->>>>>>> 86cd049e6aaa13ff9d06ed0abc4768fafd2c3d60
