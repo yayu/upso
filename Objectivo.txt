@@ -1,3 +1,5 @@
 Iniciar en el uso del control de versiones con Git.
 
 Este es un segundo comentario, seguido del tercero.
+
+Cuarto y final comentario.
