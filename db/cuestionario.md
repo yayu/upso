@@ -1,5 +1,13 @@
 # Proyecto TO-DO
 
+## Enunciado
+
+La aplicación Web perrmite al usuario registrado agregar tareas. Estas tareas a su vez pueden contener comentarios y checklist a ser completados a fin de completar la tarea asignada.
+
+Una tarea puede tener 3 estados: pendiente, en curso y finalizada.
+
+Los comentarios deben registrar quien y cuando se registro.
+
 ## SQL
 Genere consultas SQL para responder a los siguientes interrogantes
 
