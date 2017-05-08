@@ -20,5 +20,5 @@ Los comentarios deben registrar quien y cuando se registro.
    1. Contar la cantidad de checklist de la tarea T.
    1. Retornar todos los comentarios ordenados del usuario U
    1. Retornar todos los comentarios en forma invertida del usuario U.
-  1. Retornar todos los comentarios que hayan sido ingresados por el usuario Z.
-  1. Retornar todas las tareas del usuario Z
+   1. Retornar todos los comentarios que hayan sido ingresados por el usuario Z.
+   1. Retornar todas las tareas del usuario Z
