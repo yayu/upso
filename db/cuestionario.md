@@ -22,3 +22,5 @@ Los comentarios deben registrar quien y cuando se registro.
    1. Retornar todos los comentarios en forma invertida del usuario U.
    1. Retornar todos los comentarios que hayan sido ingresados por el usuario Z.
    1. Retornar todas las tareas del usuario Z
+   1. Retornar la fecha del primer comentario.
+   1. Retornar la fecha del primer comentario realizado para la tarea T.
