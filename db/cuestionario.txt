@@ -1,0 +1,12 @@
+== Proyecto TO-DO==
+
+=== SQL ===
+Genere consultas SQL para responder a los siguientes interrogantes
+
+* Contar la cantidad de tareas pendientes totales
+* Contar la cantidad de tareas completadas totalmente.
+* Retornar todos los comentarios del usuario U
+* Retornar todos los comentarios ordenados del usuario U
+* Retornar todos los comentarios en forma invertida del usuario U.
+* Retornar todos los comentarios que hayan sido ingresados por el usuario Z.
+* Retornar todas las tareas del usuario Z
