@@ -2,9 +2,9 @@
 
 ## Enunciado
 
-La aplicación Web perrmite al usuario registrado agregar tareas. Estas tareas a su vez pueden contener comentarios y checklist a ser completados a fin de completar la tarea asignada.
+Se desea contruir una aplicacion Web TODO para registrar las tareas que debe realizar un usuario. La aplicación Web debe perrmitir al usuario registrado agregar tareas Estas tareas a su vez pueden contener comentarios y checklist a ser completados a fin de terminar la tarea.
 
-Una tarea puede tener 3 estados: pendiente, en curso y finalizada.
+Una tarea puede tener 3 estados: pendiente, en curso y finalizada. Estas deben registrar, a su vez, la fecha de creación de la misma.
 
 Los comentarios deben registrar quien y cuando se registro.
 
