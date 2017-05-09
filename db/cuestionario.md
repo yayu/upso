@@ -29,11 +29,15 @@ Los comentarios deben registrar quien y cuando se registro.
 
 Generar un repositorio en Git con los archivos SQL que solucionen los enunciados anteriores utilizando la siguiente nomenclatura:
 
-```` db.tarea_<id_tarea>.sql ´´´´
+```
+db.tarea_<id_tarea>.sql
+```
 
 Por ejemplo para el primer caso sería 
 
-´´´´db.tarea_1.sql´´´´
+```
+db.tarea_1.sql
+```
  
 ## Fecha de entrega
 
