@@ -8,7 +8,7 @@ Una tarea puede tener 3 estados: pendiente, en curso y finalizada. Estas deben r
 
 Los comentarios deben registrar quien y cuando se registro.
 
-## TAREAS
+## Tarea
 
 1. Defina la estructura de las tablas a utilizar para implementar la aplicación definida anteriormente.
 1. Genere las sentencias de creación de las tablas necesarias.
@@ -24,3 +24,17 @@ Los comentarios deben registrar quien y cuando se registro.
    1. Retornar todas las tareas del usuario Z
    1. Retornar la fecha del primer comentario.
    1. Retornar la fecha del primer comentario realizado en la tarea T.
+
+## Formato de entrega
+
+Generar un repositorio en Git con los archivos SQL que solucionen los enunciados anteriores utilizando la siguiente nomenclatura:
+
+´´´´ db.tarea_<id_tarea>.sql´´´´
+
+Por ejemplo para el primer caso sería 
+
+´´´´db.tarea_1.sql´´´´
+ 
+## Fecha de entrega
+
+17/05/2015
