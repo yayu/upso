@@ -44,6 +44,7 @@ Los comentarios deben registrar quien y cuando se registro.
    1. Retornar todas las tareas del usuario Z
    1. Retornar la fecha del primer comentario.
    1. Retornar la fecha del primer comentario realizado en la tarea T.
+   1. Retornar la lista de tareas en las cuales el usuario U realizo un comentario.
 
 ## Formato de entrega
 
