@@ -7,25 +7,25 @@ Se desea contruir una aplicacion Web TODO para registrar las tareas que debe rea
 La aplicación Web debe perrmitir al usuario registrado agregar tareas. Estas tareas a su vez pueden contener comentarios y un checklist a ser completados con la división de la tarea en pasos.
 
 ### Campos de la tarea
-.id
-.nombre
-.inicio
-.estimacion
-.consumo
-.fin
-.estado (pendiente, en curso y finalizada)
-.lista de responsables
+1. id
+1. nombre
+1. inicio
+1. estimacion
+1. consumo
+1. fin
+1. estado (pendiente, en curso y finalizada)
+1. lista de responsables
 
 ### Campos de la checklist
-. id
-. nombre
-. estado (pendiente, en curso y finalizada)
-. responsable
+1. id
+1. nombre
+1. estado (pendiente, en curso y finalizada)
+1. responsable
 
 ### Campos de los comentarios
-. id
-. detalle
-. responsable
+1. id
+1. detalle
+1. responsable
 
 Los comentarios deben registrar quien y cuando se registro.
 
