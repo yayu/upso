@@ -2,9 +2,30 @@
 
 ## Enunciado
 
-Se desea contruir una aplicacion Web TODO para registrar las tareas que debe realizar un usuario. La aplicación Web debe perrmitir al usuario registrado agregar tareas Estas tareas a su vez pueden contener comentarios y checklist a ser completados a fin de terminar la tarea.
+Se desea contruir una aplicacion Web TODO para registrar las tareas que debe realizar un usuario.
 
-Una tarea puede tener 3 estados: pendiente, en curso y finalizada. Estas deben registrar, a su vez, la fecha de creación de la misma.
+La aplicación Web debe perrmitir al usuario registrado agregar tareas. Estas tareas a su vez pueden contener comentarios y un checklist a ser completados con la división de la tarea en pasos.
+
+### Campos de la tarea
+.id
+.nombre
+.inicio
+.estimacion
+.consumo
+.fin
+.estado (pendiente, en curso y finalizada)
+.lista de responsables
+
+### Campos de la checklist
+. id
+. nombre
+. estado (pendiente, en curso y finalizada)
+. responsable
+
+### Campos de los comentarios
+. id
+. detalle
+. responsable
 
 Los comentarios deben registrar quien y cuando se registro.
 
