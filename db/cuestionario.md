@@ -1,4 +1,4 @@
-# Proyecto TO-DO
+﻿# Proyecto TO-DO
 
 ## Enunciado
 
@@ -19,8 +19,7 @@ La aplicación Web debe perrmitir al usuario registrado agregar tareas. Estas ta
 ### Campos de la checklist
 1. id
 1. nombre
-1. estado (pendiente, en curso y finalizada)
-1. responsable
+1. estado (pendiente, hecho)
 
 ### Campos de los comentarios
 1. id
