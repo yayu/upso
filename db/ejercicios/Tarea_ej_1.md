@@ -1,0 +1,6 @@
+- La flota de micro de la empresa, ¿con qué cantidad de marcas distintas cuenta?
+- Determinar la fecha en la cual viajaron menos pasajeros
+- Determine si existen viajes con un único pasajero
+- ¿Qué cliente realizo más viajes en la empresa? ¿Cuantos realizo?
+- ¿El chofer 'Dittman' condujo el micro que llevo en algun momento al usuario 'Joel'?
+- Determinar los usuarios que sacaron el pasaje el mismo día que salía el micro. ¿Es una acción muy recurrente?
