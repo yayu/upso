@@ -1,10 +1,30 @@
-# Proyecto TO-DO
+﻿# Proyecto TO-DO
 
 ## Enunciado
 
-Se desea contruir una aplicacion Web TODO para registrar las tareas que debe realizar un usuario. La aplicación Web debe perrmitir al usuario registrado agregar tareas Estas tareas a su vez pueden contener comentarios y checklist a ser completados a fin de terminar la tarea.
+Se desea contruir una aplicacion Web TODO para registrar las tareas que debe realizar un usuario.
 
-Una tarea puede tener 3 estados: pendiente, en curso y finalizada. Estas deben registrar, a su vez, la fecha de creación de la misma.
+La aplicación Web debe perrmitir al usuario registrado agregar tareas. Estas tareas a su vez pueden contener comentarios y un checklist a ser completados con la división de la tarea en pasos.
+
+### Campos de la tarea
+1. id
+1. nombre
+1. inicio
+1. estimacion
+1. consumo
+1. fin
+1. estado (pendiente, en curso y finalizada)
+1. lista de responsables
+
+### Campos de la checklist
+1. id
+1. nombre
+1. estado (pendiente, hecho)
+
+### Campos de los comentarios
+1. id
+1. detalle
+1. responsable
 
 Los comentarios deben registrar quien y cuando se registro.
 
@@ -24,6 +44,7 @@ Los comentarios deben registrar quien y cuando se registro.
    1. Retornar todas las tareas del usuario Z
    1. Retornar la fecha del primer comentario.
    1. Retornar la fecha del primer comentario realizado en la tarea T.
+   1. Retornar la lista de tareas en las cuales el usuario U realizo un comentario.
 
 ## Formato de entrega
 
