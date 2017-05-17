@@ -1,10 +1,14 @@
-# TAREA 0
+# PRACTICO 1
 
-Asignaremos a cada alumno una de las tablas creadas. Nos tomaremos 10 minutos para generar un archivo denominado **_<tabla>_\_insert.sql** en el cual contenga una secuencia de al menos 6 **Insert** para cada tabla asignada.
+Utilizaremos el ejemplo del cine. El archivo para la creacion de las tablas es _setup\_ej\_1.sql_.
+
+## TAREA 1
+
+Asignaremos a cada alumno una de las tablas creadas. Nos tomaremos 10 minutos para generar un archivo denominado **_<tabla>_\_insert.sql** en el cual contenga una secuencia de al menos 6 **Insert** para la tabla asignada.
 
 Pasado el tiempo, cada uno descarga el archivo con los **Insert** y lo ejecuta localmente para actualizar su base de datos con los datos generado por sus compañeros.
 
-# TAREA 1
+## TAREA 2
 1. La flota de micro de la empresa, ¿con qué cantidad de marcas distintas cuenta?
 1. Determinar la fecha en la cual viajaron menos pasajeros
 1. Determine si existen viajes con un único pasajero
