@@ -25,3 +25,4 @@ En base a los tips anteriores, completas las siguientes preguntas:
 * ¿Existe algun genero de pelicula que todavía no estuvo en cartelera?
 * ¿Para qué pelicula hubo mayor cantidad de asistentes?
 * ¿Cual fue la función en la cual asistieron menos personas?
+* ¿Cual es la película que mas veces se mostro?
