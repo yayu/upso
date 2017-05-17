@@ -5,4 +5,4 @@ INSERT INTO `cliente`(`nombre`, `apellido`, `dni`, `direccion`, `ciudad`, `nacim
 INSERT INTO `cliente`(`nombre`, `apellido`, `dni`, `direccion`, `ciudad`, `nacimiento`) VALUES ('Robertina','Garcia','34567333','Av. san martin 231','Tres Arroyos','1973-02-05');
 INSERT INTO `cliente`(`nombre`, `apellido`, `dni`, `direccion`, `ciudad`, `nacimiento`) VALUES ('Mickel','Sancho','40234567','Av. guemes nose que','Tres Arroyos','1973-02-05');
 
-UPDATE `cliente` SET `nombre` = 'Luana', `apellido` = 'Cisneros' WHERE `cliente`.`id` = 3;
+UPDATE `cliente` SET `nombre` = 'Luana', `apellido` = 'Cisneros' WHERE `cliente`.`id` = 3; 
