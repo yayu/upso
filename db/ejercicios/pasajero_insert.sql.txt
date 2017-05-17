@@ -1,4 +1,4 @@
-INSERT INTO pasajero (cliente, viaje, compra_pasaje, butaca) VALUES
+INSERT INTO `pasajero` (`cliente`, `viaje`, `compra_pasaje`, `butaca`) VALUES
 (8, 11, '2017-04-20', 55),
 (7, 5, '2017-05-20', 15),
 (4, 8, '2017-02-20', 15),
