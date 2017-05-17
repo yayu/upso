@@ -1,6 +1,6 @@
 # TAREA 0
 
-Asignaremos a cada alumno una de las tablas creadas. Nos tomaremos 10 minutos para generar un archivo **_<tabla>_\_insert.sql** el cual contenga una secuencia de insert para cada tabla asignada.
+Asignaremos a cada alumno una de las tablas creadas. Nos tomaremos 10 minutos para generar un archivo denominado **_<tabla>_\_insert.sql** en el cual contenga una secuencia de al menos 6 **Insert** para cada tabla asignada.
 
 Pasado el tiempo, cada uno descarga el archivo con los **Insert** y lo ejecuta localmente para actualizar su base de datos con los datos generado por sus compañeros.
 
