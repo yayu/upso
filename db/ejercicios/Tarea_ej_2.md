@@ -1,4 +1,4 @@
-# Practico 2
+﻿# Practico 2
 
 ## Enunciado
 
@@ -9,7 +9,7 @@ En cada función solo se muestra una pelicula, y esta tiene asignado un valor de
 Una pelicula puede pertenecer a varios generos: drama, accion, comedia, suspenso, terror, etc. Esta a su vez se desea mantener la duración en minutos, una breve descripción y fecha de estreno.
 
 
-Por otro lado, se pretende mantener un stock de las ventas del negocio del cine. En este, solo se pretende guardar que producto se vencio a que día y hora, y el costo del mismo. Es decir, al dueño le interesa saber que el día 3 de nero del 2016 se vendieron 20 paquetes de pastillas, 10 paquetes de pochoclos y 10 vasos de gaseosas medianos, sumariazando la venta del dia en $600.
+Por otro lado, se pretende mantener un stock de las ventas del negocio del cine. En este, solo se pretende guardar que producto se vendio a que día y hora, y el costo del mismo. Es decir, al dueño le interesa saber que el día 3 de Enero del 2016 se vendieron 20 paquetes de pastillas, 10 paquetes de pochoclos y 10 vasos de gaseosas medianos, sumariazando la venta del dia en $600.
 
 ## Ejercicio
 - [ ] Una vez definidas las tablas en clases, se asignará a cada alumno una tabla para que genere un archivo con la denominación **_tabla_.sql** generando la sentencia de creación de la tabla y al menos 15 sentencias Insert para dicha tabla.
