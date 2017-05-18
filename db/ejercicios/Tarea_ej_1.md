@@ -1,4 +1,4 @@
-# PRACTICO 1
+﻿# PRACTICO 1
 
 Utilizaremos el ejemplo del cine. El archivo para la creacion de las tablas es _setup\_ej\_1.sql_.
 
@@ -13,7 +13,7 @@ Pasado el tiempo, cada uno descarga el archivo con los **Insert** y lo ejecuta l
 1. Determinar la fecha en la cual viajaron menos pasajeros
 1. Determine si existen viajes con un único pasajero
 1. ¿Qué cliente realizo más viajes en la empresa? ¿Cuantos realizo?
-1. ¿El chofer 'Dittman' condujo el micro que llevo en algun momento al usuario 'Joel'?
+1. ¿El chofer 'Dittman' condujo el micro que llevo en algun momento al usuario de apellido 'Carrizo'?
 1. Determinar los usuarios que sacaron el pasaje el mismo día que salía el micro. ¿Es una acción muy recurrente?
 
 
