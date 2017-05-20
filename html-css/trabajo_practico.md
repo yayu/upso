@@ -16,10 +16,12 @@ Completar el texto a modo de ejemplo utilizando **Lorem Ipsum**.
 
 ### **Descripción de las pantallas**
 
-- Link de tres columnas por estado de la tarea("pendiente", "en curso", "finalizada"), con el header mensionando el usuario.
--- Se debe visualizar una lista de acciones realizadas. 
-- Link a imagen de login de usuario
-- Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
+- main.html
+ - ![Pantalla principal](main_page.png)
+ - Link de tres columnas por estado de la tarea("pendiente", "en curso", "finalizada"), con el header mensionando el usuario.
+- tarea.html
+ - ![Pantalla descripción de tarea](tarea_page.png)
+ - Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
 
 
 - default.html
