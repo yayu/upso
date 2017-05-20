@@ -1,6 +1,6 @@
 # HTML + CSS
 
-##**Enunciado**
+## Enunciado
 Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTMLs__ y una __única hoja de estilo CSS__ que implemente:
 
 - Pantalla donde el usuario se encuentra registrado: *main.html*.
@@ -16,17 +16,15 @@ Completar el texto a modo de ejemplo utilizando **Lorem Ipsum**.
 
 ### **Descripción de las pantallas**
 
-- main.html
- - ![Pantalla principal](main_page.png)
- - Link de tres columnas por estado de la tarea("pendiente", "en curso", "finalizada"), con el header mensionando el usuario.
-- tarea.html
- - ![Pantalla descripción de tarea](tarea_page.png)
- - Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
-
-
-- default.html
- - Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
- - Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas cuando se encuentran en un estado distinto a finalizadas.
+1. main.html
+- ![Pantalla principal](main_page.png)
+- Link de tres columnas por estado de la tarea("pendiente", "en curso", "finalizada"), con el header mensionando el usuario.
+2. tarea.html
+- ![Pantalla descripción de tarea](tarea_page.png)
+- Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
+3. default.html
+- Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
+- Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas cuando se encuentran en un estado distinto a finalizadas.
 
 
 ## **Fecha de entrega**
