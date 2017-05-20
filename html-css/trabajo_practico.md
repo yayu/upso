@@ -1,9 +1,9 @@
 # HTML + CSS
 
 ##**Enunciado**
-Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTMLs__ y una __única hoja de estilo CSS__ que implemente el prototipo siguiente:
+Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTMLs__ y una __única hoja de estilo CSS__ que implemente:
 
-- Pantalla donde el usuario se encuentra registrado: *default.html*.
+- Pantalla donde el usuario se encuentra registrado: *main.html*.
 - Pantalla de login: *login.html*
 - Detalle de una tarea: *tarea.html*
 
@@ -12,18 +12,19 @@ Es necesario relacionar las pantallas utilizando hipervinculos de manera adecuad
 
 Completar el texto a modo de ejemplo utilizando **Lorem Ipsum**.
 
+- Ingresar al menos 6, 2 y 1 tareas por columna respectivamente.
+
 ### **Descripción de las pantallas**
 
-- Link de tres columnas por estado de la tarea, con el header mensionando el usuario.
+- Link de tres columnas por estado de la tarea("pendiente", "en curso", "finalizada"), con el header mensionando el usuario.
 -- Se debe visualizar una lista de acciones realizadas. 
 - Link a imagen de login de usuario
--- Ingresar al menos 3, 2 y 1 cadena por columna respectivamente.
 - Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
 
 
-- Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
-
-- Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas cuando se encuentran en un estado distinto a finalizadas.
+- default.html
+ - Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
+ - Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas cuando se encuentran en un estado distinto a finalizadas.
 
 
 ## **Fecha de entrega**
