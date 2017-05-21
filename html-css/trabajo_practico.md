@@ -3,28 +3,29 @@
 ## Enunciado
 Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTMLs__ y una __única hoja de estilo CSS__ que implemente:
 
-- Pantalla donde el usuario se encuentra registrado: *main.html*.
-- Pantalla de login: *login.html*
-- Detalle de una tarea: *tarea.html*
+1. Pantalla principal del usuario autenticado: *main.html*.
+1. Pantalla de login: *login.html*
+1. Detalle de una tarea: *tarea.html*
 
 
 Es necesario relacionar las pantallas utilizando hipervinculos de manera adecuada.
 
-Completar el texto a modo de ejemplo utilizando **Lorem Ipsum**.
+Completar el texto del diseño Web utilizando **Lorem Ipsum**.
 
 - Ingresar al menos 6, 2 y 1 tareas por columna respectivamente.
 
 ### **Descripción de las pantallas**
 
 1. main.html
-- ![Pantalla principal](main_page.png)
-- Link de tres columnas por estado de la tarea("pendiente", "en curso", "finalizada"), con el header mensionando el usuario.
+![Pantalla principal](main_page.png)
+ - Las tres columnas corresponden a los estados de una tarea ("pendiente", "en curso", "finalizada")
+ - El HEADER de la columna contiene el nombre de esta
+ - Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
+ - Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas __cuando__ se encuentran en un estado distinto a __finalizadas__.
+ - En una a la derecha, se debe mostrar los cambios realizados en las tareas donde el usuario es responsable.
 2. tarea.html
-- ![Pantalla descripción de tarea](tarea_page.png)
-- Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
-3. default.html
-- Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
-- Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas cuando se encuentran en un estado distinto a finalizadas.
+![Pantalla descripción de tarea](tarea_page.png)
+ - Diseñar un prototipo donde se muestre la descripcion de una tarea(al ingresar a una tarea seleccionando la misma desde la etapa anterior)
 
 
 ## **Fecha de entrega**
@@ -69,7 +70,7 @@ https://css-tricks.com/guides/beginner/
 
 ### **Responsive Design**: Concepto
 
-El concepto Responsive Design hace referencia a utilizar estrategias de CSS3 para implementar una página Web adaptable a la resolución de pantalla del dispositivo.
+El concepto Responsive Design hace referencia a utilizar estrategias de CSS para implementar una página Web adaptable a la resolución de pantalla del dispositivo.
 
 A continuación les comparto este link de Google que toca este concepto.
 
@@ -80,3 +81,5 @@ A continuación les comparto este link de Google que toca este concepto.
 Es posible que nuestro diseño de la página Web se visualice correctamente en un navegador Web, pero esto no nos garantiza que sea así en todos los casos. Para ello, existen herramientas que nos permite observar como se muestra nuestra página Web en distintas versiones de distintos Navegadores.
 
 Una herramienta de este tipo es [BrowserStack](https://www.browserstack.com).
+
+Utilizando estas herramientas podemos garantizarnos que la página diseñada se visualice correctamente en distintos navegadores sin necesidad de tenerlos instalados en nuestra equipo de desarrollo.
