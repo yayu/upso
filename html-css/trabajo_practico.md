@@ -18,7 +18,12 @@ Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTML
 1. main.html
 ![Pantalla principal](main_page.png)
  - Las tres columnas corresponden a los estados de una tarea ("pendiente", "en curso", "finalizada")
- - El HEADER de la columna contiene el nombre de esta
+ - El HEADER de la columna contiene el nombre de esta.
+ - El resumen de la tarea debe tener un ícono resumen indicando:
+   - Se realizo un comentario,
+   - contiene checklist, y un resumen de las consignas a realizadas sobre el total (2/5),
+   - fecha de fin de tarea,
+   - un ícono represetando el o los usuarios responsables de la tarea.
  - Las **TAREAS PROXIMAS A VENCER** deben ser destacadas del resto. Esto puede lograrse utilizando un efecto opaco.
  - Las **TAREAS VENCIDAS** deben tambien destacarse del resto de las tareas __cuando__ se encuentran en un estado distinto a __finalizadas__.
  - En una a la derecha, se debe mostrar los cambios realizados en las tareas donde el usuario es responsable.
