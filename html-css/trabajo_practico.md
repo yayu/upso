@@ -8,11 +8,9 @@ Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTML
 1. Detalle de una tarea: *tarea.html*
 
 
-Es necesario relacionar las pantallas utilizando hipervinculos de manera adecuada.
-
-Completar el texto del diseño Web utilizando **Lorem Ipsum**.
-
-- Ingresar al menos 6, 2 y 1 tareas por columna respectivamente.
+* Es necesario relacionar las pantallas utilizando hipervinculos de manera adecuada.
+* Completar el texto del diseño Web utilizando **Lorem Ipsum**.
+* Ingresar al menos 6, 2 y 1 tareas por columna respectivamente.
 
 ### **Descripción de las pantallas**
 
@@ -39,21 +37,23 @@ Los archivos deben ubicarse dentro de una carpeta llamada _todo_.
 
 Elementos HTML a utilizar
 
-header
-h1
-table --> https://css-tricks.com/complete-guide-table-element/
-div --> https://css-tricks.com/all-about-floats/
-    Ejemplos sencillo --> http://es.learnlayout.com/position.html
-form --> https://css-tricks.com/snippets/html/example-form-markup/
-input
-span
+* header
+* h1
+* table --> https://css-tricks.com/complete-guide-table-element/
+* div 
+ - https://css-tricks.com/all-about-floats/
+ - Ejemplos sencillo --> http://es.learnlayout.com/position.html
+* form --> https://css-tricks.com/snippets/html/example-form-markup/
+* input
+* span
 
 Elementos CSS a utilizar
 
-atributos, clases
-atributos:
-- display
-- position
+* atributos, clases
+* atributos:
+ - display
+ - position
+ - font
 
 
 https://www.w3schools.com/css/css_positioning.asp
