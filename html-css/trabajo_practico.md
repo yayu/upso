@@ -11,6 +11,7 @@ Continuando con el proyecto __TODO__, es necesario generar los siguientes __HTML
 * Es necesario relacionar las pantallas utilizando hipervinculos de manera adecuada.
 * Completar el texto del diseño Web utilizando **Lorem Ipsum**.
 * Ingresar al menos 6, 2 y 1 tareas por columna respectivamente.
+* No se permite utilizar ningún framework __CSS__, es decir, el CSS generado debe realizarse manualmente.
 
 ### **Descripción de las pantallas**
 
