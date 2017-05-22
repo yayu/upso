@@ -41,7 +41,7 @@ Los archivos deben ubicarse dentro de una carpeta llamada _todo_.
 
 ## **Tips**
 
-Elementos HTML a utilizar
+Recomendacion de elementos HTML a utilizar
 
 * header
 * h1
@@ -53,14 +53,20 @@ Elementos HTML a utilizar
 * input
 * span
 
-Elementos CSS a utilizar
+Recomendacion de elementos CSS a utilizar
 
-* atributos, clases
 * atributos:
  - display
  - position
  - font
+ - border
 
+* Clases:
+ - por_vencer
+ - vencida
+ - pendientes
+ - en_curso
+ - finalizadas
 
 https://www.w3schools.com/css/css_positioning.asp
 
@@ -72,7 +78,7 @@ https://css-tricks.com/guides/layout/
 
 https://css-tricks.com/guides/beginner/
 
-## **Anexo**
+## **Complemento teórico**
 
 ### **Responsive Design**: Concepto
 
