@@ -1,14 +1,9 @@
 # EJERCICIOS PHP
 
 1. Generar un programa que muestre la cadena 'Hola Mundo'
-1. Genere un programa en PHP que muestre por pantalla si 1021 es primo implementando la funcion es_primo(n)
-2. 
-
-
 1. Generar un programa PHP que muestre la longitud de una cadena.
-
-1. Generar una función PHP que dado una cadena S y un entero E, retorne el valor de la posición E en la cadena S. En caso de no existir valor, retornae **undefined**.
-
+> strlen
+1. Generar una función PHP que dado una cadena S y un entero E, retorne el valor de la posición E en la cadena S. En caso de no existir valor, retorne **undefined**.
 1. Generar una funcion PHP para determinar si un entero es capicua.
 ## ARREGLO
 1. Genere un programa PHP que defina un arreglo que contenga el nombre de diversas frutas y muestre sus valores.
@@ -54,6 +49,7 @@
 > Variable $_POST
 > Enlace de ayuda https://desarrolloweb.com/articulos/318.php
 
+1.Escriba un programa que permita hacer y presentar por pantalla la suma, resta, producto,división, potenciación y módulo de la división de dos números
 ## TIPS
 
 * funcion **var_dump**
