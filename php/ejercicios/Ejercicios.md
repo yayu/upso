@@ -1,7 +1,7 @@
 # EJERCICIOS PHP
 
 1. Generar un programa que muestre la cadena 'Hola Mundo'
-1. Generar un programa PHP que muestre la longitud de una cadena.
+1. Generar un programa PHP que muestre la longitud de una cadena de caracteres.
 > strlen
 1. Generar una función PHP que dado una cadena S y un entero E, retorne el valor de la posición E en la cadena S. En caso de no existir valor, retorne **undefined**.
 1. Generar una funcion PHP para determinar si un entero es capicua.
@@ -27,7 +27,7 @@
 1. Mostrar una tabla de 4 por 4 que muestre las primeras 4 potencias de los números del uno 1 al 4 (hacer una función que las calcule invocando la función pow).
 1. Defina un arreglo en PHP donde por cada producto se muestre su costo, es decir, "foco LED  7W" => 34,50.
 > Utilizar arreglos asociativos
-1. Generar una funcion PHP que dado un arreglo, retorne el arreglo invertido.
+1. Generar una funcion PHP que dado un arreglo de enteros, retorne el arreglo invertido.
 1. Generar una funcion PHP que dado un arreglo de cadenas y una cadena, agregue esta última al arreglo.
 
 ## PARAMETROS 
