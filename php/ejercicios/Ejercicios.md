@@ -61,5 +61,9 @@
 
 ## FECHA DE ENTREGA
  
-La fecha de entrega es para 12/6/2017.
 
+Generar un archivo index.php que muestre los enlaces a los programas que resuelven cada uno de los problemas planteados.
+
+En caso de utilizar Git, Indicar via mensaje privado el repositorio al cual debe acceder para corregir la ejercitación. Sino enviar una mail con un adjunto comprimido.
+
+> La fecha de entrega es para 12/6/2017.
