@@ -37,6 +37,7 @@
 > - **$_GET**
 >  - función **isset** http://php.net/manual/es/function.isset.php
 > Enlace de ayuda: https://desarrolloweb.com/articulos/317.php
+1.Escriba un programa que permita hacer y presentar por pantalla la suma, resta, producto,división, potenciación y módulo de la división de dos números
 
 
 ## SESIONES
@@ -51,7 +52,6 @@
 > Variable $_POST
 > Enlace de ayuda https://desarrolloweb.com/articulos/318.php
 
-1.Escriba un programa que permita hacer y presentar por pantalla la suma, resta, producto,división, potenciación y módulo de la división de dos números
 ## TIPS
 
 * funcion **var_dump**
