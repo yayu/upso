@@ -38,7 +38,8 @@
 >  - función **isset** http://php.net/manual/es/function.isset.php
 > Enlace de ayuda: https://desarrolloweb.com/articulos/317.php
 1.Escriba un programa que permita hacer y presentar por pantalla la suma, resta, producto,división, potenciación y módulo de la división de dos números
-
+1. Genere un programa PHP que muestre un formulario para escribir un mensaje y al submitirlo, muestre en la misma página su valor hash MD5.
+> http://php.net/manual/es/function.md5.php
 
 ## SESIONES
 1. Generar un programa PHP que muestre la cantidad de veces que el usuario ingresa a una página mostrando "Uds. ingreso <ingresos> veces"
